@@ -1,0 +1,7 @@
+dependencies {
+    testCompile "org.spockframework:spock-spring:1.0-groovy-2.4",
+            "org.springframework:spring-test:4.1.0.RELEASE",
+            "org.springframework:spring-context:4.1.0.RELEASE",
+            "org.spockframework:spock-guice:1.0-groovy-2.4",
+            "com.google.inject:guice:4.0"
+}

@@ -1,0 +1,2 @@
+def projectDirs = rootDir.listFiles().findAll { it.directory && it.name.startsWith("#") }
+projectDirs.each { include it.name }

@@ -1,0 +1,1 @@
+This repo contains the examples I used during my talk on Spock's hidden gems at a London GGUG meeting on 02/06/2015.
